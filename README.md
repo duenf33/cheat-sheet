@@ -7,7 +7,7 @@ When you create a repository on your GitHub Enterprise Server instance, it exist
 
 Forking is a concept while cloning is a process. Forking is just containing a separate copy of the repository and there is no command involved. Cloning is done through the command ‘git clone‘ and it is a process of receiving all the code files to the local machine.
 
-**[Cloning vs Forking Link](https://www.toolsqa.com/git/difference-between-git-clone-and-git-fork/)**
+> **[Cloning vs Forking Link](https://www.toolsqa.com/git/difference-between-git-clone-and-git-fork/)**
 
 * ## Git Status:
 The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
